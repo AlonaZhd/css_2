@@ -17,7 +17,7 @@
 
 /*  4  */
 .lesson-four-task-four #sidebar .link:link {
-  background-color: red;
+  color: red;
 }
 
 /*  5  */
@@ -63,10 +63,6 @@
 }
 
 /*  13  */
-.lesson-four-task-thirteen {
-  background-color: lightyellow;
-  color: red;
-}
 .lesson-four-task-thirteen input:read-write {
   background-color: yellow;
 }
